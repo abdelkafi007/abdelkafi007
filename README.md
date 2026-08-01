@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="light.svg">
-  <img alt="Oumnih Abdelkafi — Cybersecurity Student" src="dark.svg" width="100%">
+  <img alt="Oumnih Abdelkafi" src="dark.svg" width="100%">
 </picture>
 
 <br/><br/>
@@ -12,15 +12,11 @@
 <img src="https://img.shields.io/github/stars/abdelkafi007?style=flat-square&color=0891B2&labelColor=0F172A&logo=github&logoColor=white" alt="Stars" />
 <img src="https://komarev.com/ghpvc/?username=abdelkafi007&style=flat-square&color=14B8A6&labelColor=0F172A&label=Profile+Views" alt="Profile Views" />
 
+</div>
+
 ---
 
 ### About Me
-
-</div>
-
-<table>
-  <tr>
-    <td width="65%">
 
 First-year engineering student at ENSAO building foundational skills in offensive security, system administration, and network defense. I learn by building — from threat detection labs to secure server dashboards — and I document everything along the way.
 
@@ -28,16 +24,9 @@ First-year engineering student at ENSAO building foundational skills in offensiv
 - **Currently:** Progressing through OverTheWire wargames and building home labs
 - **Looking for:** Internship opportunities in cybersecurity or IT infrastructure
 
-</td>
-    <td width="35%" align="center">
-      <img src="https://avatars.githubusercontent.com/u/149261567?v=4" alt="Oumnih Abdelkafi" width="180" style="border-radius: 50%;" />
-    </td>
-  </tr>
-</table>
+---
 
 <div align="center">
-
----
 
 ### Tech Stack
 
