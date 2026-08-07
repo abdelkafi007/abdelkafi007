@@ -8,9 +8,9 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/github/followers/abdelkafi007?style=flat-square&color=0D9488&labelColor=0F172A&logo=github&logoColor=white" alt="Followers" />
-<img src="https://img.shields.io/github/stars/abdelkafi007?style=flat-square&color=0891B2&labelColor=0F172A&logo=github&logoColor=white" alt="Stars" />
-<img src="https://komarev.com/ghpvc/?username=abdelkafi007&style=flat-square&color=14B8A6&labelColor=0F172A&label=Profile+Views" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/abdelkafi007?style=flat-square&color=DC2626&labelColor=030712&logo=github&logoColor=white" alt="Followers" />
+<img src="https://img.shields.io/github/stars/abdelkafi007?style=flat-square&color=F59E0B&labelColor=030712&logo=github&logoColor=white" alt="Stars" />
+<img src="https://komarev.com/ghpvc/?username=abdelkafi007&style=flat-square&color=DC2626&labelColor=030712&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
@@ -49,13 +49,13 @@ First-year engineering student at ENSAO building foundational skills in offensiv
 ### GitHub Stats
 
 <a href="https://github.com/abdelkafi007">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelkafi007&theme=transparent&hide_border=true&ring=0D9488&fire=14B8A6&currStreakNum=0D9488&sideNums=CBD5E1&currStreakLabel=0891B2&sideLabels=64748B&dates=475569" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelkafi007&theme=transparent&hide_border=true&ring=DC2626&fire=F59E0B&currStreakNum=DC2626&sideNums=CBD5E1&currStreakLabel=F59E0B&sideLabels=64748B&dates=475569" alt="GitHub Streak" />
 </a>
 
 <br/>
 
 <a href="https://github.com/abdelkafi007">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdelkafi007&show_icons=true&hide_border=true&bg_color=00000000&icon_color=0D9488&title_color=14B8A6&text_color=CBD5E1" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelkafi007&show_icons=true&hide_border=true&bg_color=00000000&icon_color=F59E0B&title_color=DC2626&text_color=CBD5E1" alt="GitHub Stats" />
 </a>
 
 ---
@@ -68,6 +68,6 @@ First-year engineering student at ENSAO building foundational skills in offensiv
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D9488&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=DC2626&height=120&section=footer" width="100%"/>
 
 </div>
