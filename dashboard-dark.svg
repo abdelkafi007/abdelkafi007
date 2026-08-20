@@ -256,16 +256,8 @@
 
       <!-- Stat boxes -->
       <g transform="translate(0,14)">
-        <text x="38" y="0" text-anchor="middle" fill="#DC2626" font-family="'Segoe UI',sans-serif" font-size="22" font-weight="800">4</text>
-        <text x="38" y="16" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="9">PROJECTS</text>
-      </g>
-      <g transform="translate(76,14)">
-        <text x="38" y="0" text-anchor="middle" fill="#F59E0B" font-family="'Segoe UI',sans-serif" font-size="22" font-weight="800">34</text>
-        <text x="38" y="16" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="9">CTF LEVELS</text>
-      </g>
-      <g transform="translate(152,14)">
-        <text x="38" y="0" text-anchor="middle" fill="#9F1239" font-family="'Segoe UI',sans-serif" font-size="22" font-weight="800">46</text>
-        <text x="38" y="16" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="9">CLASS RANK</text>
+        <text x="114" y="0" text-anchor="middle" fill="#DC2626" font-family="'Segoe UI',sans-serif" font-size="22" font-weight="800">4</text>
+        <text x="114" y="16" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="9">PROJECTS</text>
       </g>
     </g>
   </g>

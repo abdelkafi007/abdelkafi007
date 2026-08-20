@@ -168,10 +168,6 @@
         <tspan fill="#DC2626" font-weight="bold">focus</tspan><tspan fill="#94A3B8"> ............. </tspan><tspan fill="#CBD5E1">Offensive Security, Threat Detection</tspan>
         <animate attributeName="opacity" values="0;1" dur="0.3s" begin="1.1s" fill="freeze"/>
       </text>
-      <text x="0" y="84" opacity="0">
-        <tspan fill="#DC2626" font-weight="bold">rank</tspan><tspan fill="#94A3B8"> .............. </tspan><tspan fill="#CBD5E1">46/390 (Y1) | 90/350 (Y2)</tspan>
-        <animate attributeName="opacity" values="0;1" dur="0.3s" begin="1.4s" fill="freeze"/>
-      </text>
     </g>
 
     <line x1="28" y1="266" x2="466" y2="266" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
