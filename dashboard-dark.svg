@@ -241,7 +241,7 @@
         <animate attributeName="opacity" values="0;1" dur="0.2s" begin="2.6s" fill="freeze"/>
       </text>
       <text x="0" y="192" opacity="0">
-        <tspan fill="#DC2626">[OK]</tspan><tspan fill="#94A3B8"> Bandit lvl 20 cleared</tspan>
+        <tspan fill="#DC2626">[OK]</tspan><tspan fill="#94A3B8"> Bandit lvl 34 cleared</tspan>
         <animate attributeName="opacity" values="0;1" dur="0.2s" begin="2.9s" fill="freeze"/>
       </text>
       <text x="0" y="216" opacity="0">
@@ -256,11 +256,11 @@
 
       <!-- Stat boxes -->
       <g transform="translate(0,14)">
-        <text x="38" y="0" text-anchor="middle" fill="#DC2626" font-family="'Segoe UI',sans-serif" font-size="22" font-weight="800">3</text>
+        <text x="38" y="0" text-anchor="middle" fill="#DC2626" font-family="'Segoe UI',sans-serif" font-size="22" font-weight="800">4</text>
         <text x="38" y="16" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="9">PROJECTS</text>
       </g>
       <g transform="translate(76,14)">
-        <text x="38" y="0" text-anchor="middle" fill="#F59E0B" font-family="'Segoe UI',sans-serif" font-size="22" font-weight="800">20</text>
+        <text x="38" y="0" text-anchor="middle" fill="#F59E0B" font-family="'Segoe UI',sans-serif" font-size="22" font-weight="800">34</text>
         <text x="38" y="16" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="9">CTF LEVELS</text>
       </g>
       <g transform="translate(152,14)">

@@ -276,7 +276,10 @@
         <tspan fill="#DC2626">02</tspan><tspan fill="#94A3B8"> </tspan><tspan fill="#CBD5E1">SSH Brute Force Detection Lab</tspan><tspan fill="#94A3B8"> — log analysis</tspan>
       </text>
       <text x="0" y="82">
-        <tspan fill="#DC2626">03</tspan><tspan fill="#94A3B8"> </tspan><tspan fill="#CBD5E1">OverTheWire Bandit (12-20)</tspan><tspan fill="#94A3B8"> — privesc, crypto</tspan>
+        <tspan fill="#DC2626">03</tspan><tspan fill="#94A3B8"> </tspan><tspan fill="#CBD5E1">OverTheWire Bandit (All 34 Levels)</tspan><tspan fill="#94A3B8"> — privesc, crypto</tspan>
+      </text>
+      <text x="0" y="108">
+        <tspan fill="#DC2626">04</tspan><tspan fill="#94A3B8"> </tspan><tspan fill="#CBD5E1">SentinelSOC</tspan><tspan fill="#94A3B8"> — SIEM, threat hunting</tspan>
       </text>
     </g>
 
