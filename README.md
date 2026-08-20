@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="light.svg">
-  <img alt="Oumnih Abdelkafi" src="dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg?v=3">
+  <img alt="Oumnih Abdelkafi" src="dark.svg?v=3" width="100%">
 </picture>
 
 <br/><br/>
@@ -17,9 +17,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dashboard-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="dashboard-light.svg">
-  <img alt="Security Dashboard" src="dashboard-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="dashboard-dark.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="dashboard-light.svg?v=3">
+  <img alt="Security Dashboard" src="dashboard-dark.svg?v=3" width="100%">
 </picture>
 
 </div>
