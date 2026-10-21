@@ -552,7 +552,6 @@ export async function buildAll() {
     { name: 'terminal.svg', content: generateTerminal() },
     { name: 'label-projects.svg', content: generateLabel('projects', '// projects') },
     { name: 'label-stack.svg', content: generateLabel('stack', '// stack') },
-    { name: 'label-progress.svg', content: generateLabel('progress', '// progress') },
     { name: 'label-activity.svg', content: generateLabel('activity', '// activity') },
     { name: 'label-contact.svg', content: generateLabel('contact', '// contact') },
     {
@@ -596,7 +595,6 @@ export async function buildAll() {
       ),
     },
     { name: 'stack.svg', content: generateStack() },
-    { name: 'progress.svg', content: generateProgress() },
     { name: 'activity.svg', content: generateActivity(activityData) },
     { name: 'btn-portfolio.svg', content: generateButton('portfolio ↗', true) },
     { name: 'btn-linkedin.svg', content: generateButton('linkedin ↗', false) },
