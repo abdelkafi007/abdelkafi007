@@ -65,9 +65,9 @@
     <text x="28" y="196" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" xml:space="preserve"><tspan fill="#3ddc84">oumnih@ensao</tspan><tspan fill="#8b909a">:~$ </tspan><tspan fill="#e6e8ec">ls projects/</tspan></text>
   </g>
   <!-- Line 6: projects output (fades in at 5.4s) -->
-  <text class="fade-item" x="28" y="220" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" opacity="1" xml:space="preserve"><animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="5.4s" fill="freeze"/><tspan fill="#e6e8ec">ssh-bruteforce-lab/  mcserver-dashboard/  overthewire-bandit/  sentinelsoc/</tspan></text>
+  <text class="fade-item" x="28" y="220" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" opacity="1" xml:space="preserve"><animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="5.4s" fill="freeze"/><tspan fill="#e6e8ec">ssh-bruteforce-lab/  microjail/  cloud-iam/  sentinelsoc/</tspan></text>
   <!-- Terminal block cursor after line 6 (appears at 6s, blinks 1s cycle) -->
-  <rect class="term-cursor" x="619" y="208" width="8" height="15" fill="#3ddc84" opacity="1">
+  <rect class="term-cursor" x="479" y="208" width="8" height="15" fill="#3ddc84" opacity="1">
     <set attributeName="visibility" to="hidden" begin="0s" dur="6s"/>
     <set attributeName="visibility" to="visible" begin="6s"/>
     <animate attributeName="opacity" values="1;0;1" keyTimes="0;0.5;1" dur="1s" begin="6s" calcMode="discrete" repeatCount="indefinite"/>

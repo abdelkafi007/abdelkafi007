@@ -19,12 +19,12 @@ const assetsDir = path.join(rootDir, 'assets');
 export const config = {
   PUBLIC_REPOS: 11,
   REPO_DIR_1: 'ssh-bruteforce-lab',
-  REPO_DIR_2: 'mcserver-dashboard',
-  REPO_DIR_3: 'overthewire-bandit',
+  REPO_DIR_2: 'microjail',
+  REPO_DIR_3: 'cloud-iam',
   REPO_DIR_4: 'sentinelsoc',
   REPO_URL_1: 'https://github.com/abdelkafi007/SSH-Honeypot',
-  REPO_URL_2: 'https://github.com/abdelkafi007/mcserver-dashboard',
-  REPO_URL_3: 'https://github.com/abdelkafi007/OverTheWire-Bandit-Writeups',
+  REPO_URL_2: 'https://github.com/abdelkafi007/microjail',
+  REPO_URL_3: 'https://github.com/abdelkafi007/cloud-iam-reachability-engine',
   REPO_URL_4: 'https://github.com/abdelkafi007/SentinelSOC',
   SENTINELSOC_STACK: 'Python, SIEM, auth.log, Linux',
   THM_VALUE: 'Top 10%',
@@ -569,20 +569,20 @@ export async function buildAll() {
       name: 'card-2.svg',
       content: generateCard(
         '02',
-        'MC Server Security Dashboard',
-        'Zero-trust automated Minecraft server infrastructure',
-        'with RCON-based controls and live audit logging.',
-        ['Node.js', 'Express', 'systemd', 'RCON']
+        'Microjail Container Runtime',
+        'Minimal OCI-inspired Linux container runtime in C using',
+        'namespaces, pivot_root, cgroups v2, and seccomp-BPF.',
+        ['C', 'Linux', 'cgroups', 'seccomp']
       ),
     },
     {
       name: 'card-3.svg',
       content: generateCard(
         '03',
-        'OverTheWire Bandit',
-        'All 34 levels solved with documented writeups and',
-        'reproducible Linux privilege escalation workflows.',
-        ['Linux', 'Bash', 'CTF', 'privesc']
+        'Cloud IAM Reachability Engine',
+        'Directed attack graph analyzer and telemetry fusion',
+        'engine for multi-hop AWS IAM privilege escalation.',
+        ['Python', 'AWS IAM', 'Terraform', 'Graphs']
       ),
     },
     {
