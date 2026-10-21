@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 258" width="830" height="258">
+  <title>Terminal Intro — Oumnih Abdelkafi</title>
+  <desc>Monochrome interactive terminal session showing student identity, technical focus, and projects directory</desc>
+  <defs>
+    <clipPath id="terminalPanelClip">
+      <rect x="4" y="4" width="822" height="250" rx="12"/>
+    </clipPath>
+    <!-- Typing clipPaths for command lines -->
+    <clipPath id="clipL1">
+      <rect class="cmd-clip" x="28" y="64" width="780" height="24">
+        <animate attributeName="width" from="0" to="780" dur="0.9s" begin="0.5s" fill="freeze" calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clipL3">
+      <rect class="cmd-clip" x="28" y="122" width="780" height="24">
+        <animate attributeName="width" from="0" to="780" dur="1.2s" begin="2.2s" fill="freeze" calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clipL5">
+      <rect class="cmd-clip" x="28" y="180" width="780" height="24">
+        <animate attributeName="width" from="0" to="780" dur="1.0s" begin="4.2s" fill="freeze" calcMode="linear"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <style>
+    @media (prefers-reduced-motion: reduce) {
+      .cmd-clip { width: 780px !important; }
+      .fade-item { opacity: 1 !important; }
+      .term-cursor { display: none !important; }
+    }
+  </style>
+  <!-- Background panel (inset 4px) -->
+  <rect x="4" y="4" width="822" height="250" rx="12" fill="#0d0f13" stroke="#23262e" stroke-width="1"/>
+  <!-- Titlebar -->
+  <g clip-path="url(#terminalPanelClip)">
+    <rect x="4" y="4" width="822" height="40" fill="#12141a"/>
+    <line x1="4" y1="44" x2="826" y2="44" stroke="#23262e" stroke-width="1"/>
+    <!-- Three neutral window controls -->
+    <circle cx="28" cy="24" r="5" fill="#2a2e38"/>
+    <circle cx="46" cy="24" r="5" fill="#2a2e38"/>
+    <circle cx="64" cy="24" r="5" fill="#2a2e38"/>
+    <text x="415" y="28" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#8b909a" text-anchor="middle">guest@oumnih:~</text>
+  </g>
+  <!-- Terminal body -->
+  <!-- Line 1: whoami (types 0.5s - 1.4s) -->
+  <g clip-path="url(#clipL1)">
+    <text x="28" y="80" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" xml:space="preserve"><tspan fill="#3ddc84">oumnih@ensao</tspan><tspan fill="#8b909a">:~$ </tspan><tspan fill="#e6e8ec">whoami</tspan></text>
+  </g>
+  <!-- Line 2: whoami output (fades in at 1.6s) -->
+  <text class="fade-item" x="28" y="104" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" opacity="1">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.6s" fill="freeze"/>
+    <tspan fill="#aab0ba">&gt; Cybersecurity engineering student, ENSAO &apos;29</tspan>
+  </text>
+  <!-- Line 3: cat focus.txt (types 2.2s - 3.4s) -->
+  <g clip-path="url(#clipL3)">
+    <text x="28" y="138" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" xml:space="preserve"><tspan fill="#3ddc84">oumnih@ensao</tspan><tspan fill="#8b909a">:~$ </tspan><tspan fill="#e6e8ec">cat focus.txt</tspan></text>
+  </g>
+  <!-- Line 4: focus output (fades in at 3.6s) -->
+  <text class="fade-item" x="28" y="162" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" opacity="1">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="3.6s" fill="freeze"/>
+    <tspan fill="#aab0ba">&gt; offensive security · threat detection · infrastructure hardening</tspan>
+  </text>
+  <!-- Line 5: ls projects/ (types 4.2s - 5.2s) -->
+  <g clip-path="url(#clipL5)">
+    <text x="28" y="196" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" xml:space="preserve"><tspan fill="#3ddc84">oumnih@ensao</tspan><tspan fill="#8b909a">:~$ </tspan><tspan fill="#e6e8ec">ls projects/</tspan></text>
+  </g>
+  <!-- Line 6: projects output (fades in at 5.4s) -->
+  <text class="fade-item" x="28" y="220" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" opacity="1" xml:space="preserve"><animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="5.4s" fill="freeze"/><tspan fill="#e6e8ec">ssh-bruteforce-lab/  mcserver-dashboard/  overthewire-bandit/  sentinelsoc/</tspan></text>
+  <!-- Terminal block cursor after line 6 (appears at 6s, blinks 1s cycle) -->
+  <rect class="term-cursor" x="619" y="208" width="8" height="15" fill="#3ddc84" opacity="1">
+    <set attributeName="visibility" to="hidden" begin="0s" dur="6s"/>
+    <set attributeName="visibility" to="visible" begin="6s"/>
+    <animate attributeName="opacity" values="1;0;1" keyTimes="0;0.5;1" dur="1s" begin="6s" calcMode="discrete" repeatCount="indefinite"/>
+  </rect>
+</svg>

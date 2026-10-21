@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 415 156" width="415" height="156">
+  <title>SSH Brute-Force Detection Lab</title>
+  <desc>Project card 01: SSH Brute-Force Detection Lab</desc>
+  <!-- Card base panel (inset 4px) -->
+  <rect x="4" y="4" width="407" height="148" rx="12" fill="#0f1115" stroke="#23262e" stroke-width="1"/>
+  <!-- Top edge accent line -->
+  <line x1="24" y1="4" x2="64" y2="4" stroke="#3ddc84" stroke-width="1"/>
+  <!-- Header row -->
+  <text x="24" y="34" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#3ddc84">01</text>
+  <text x="383" y="34" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#8b909a" text-anchor="end">view →</text>
+  <!-- Title -->
+  <text x="24" y="58" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#f2f4f7">SSH Brute-Force Detection Lab</text>
+  <!-- Description (2 lines) -->
+  <text x="24" y="80" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#aab0ba">
+    <tspan x="24" dy="0">Log analysis, auth.log parsing and automated IP</tspan>
+    <tspan x="24" dy="17">blocking with dynamic iptables rules.</tspan>
+  </text>
+  <!-- Tech chips along bottom -->
+  <g>
+    <rect x="24" y="118" width="40" height="20" rx="4" fill="#12141a" stroke="#23262e" stroke-width="1"/>
+    <text x="44" y="132" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#aab0ba" text-anchor="middle">Bash</text>
+    <rect x="70" y="118" width="46" height="20" rx="4" fill="#12141a" stroke="#23262e" stroke-width="1"/>
+    <text x="93" y="132" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#aab0ba" text-anchor="middle">Linux</text>
+    <rect x="122" y="118" width="64" height="20" rx="4" fill="#12141a" stroke="#23262e" stroke-width="1"/>
+    <text x="154" y="132" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#aab0ba" text-anchor="middle">iptables</text>
+    <rect x="192" y="118" width="34" height="20" rx="4" fill="#12141a" stroke="#23262e" stroke-width="1"/>
+    <text x="209" y="132" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#aab0ba" text-anchor="middle">SSH</text>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 40" width="830" height="40">
+  <title>Status Indicator</title>
+  <desc>Current operational availability: open to internships</desc>
+  <style>
+    @media (prefers-reduced-motion: reduce) {
+      * { animation: none !important; }
+    }
+  </style>
+  <!-- Pulsing accent dot -->
+  <circle cx="16" cy="20" r="4" fill="#3ddc84"/>
+  <circle cx="16" cy="20" r="4" fill="none" stroke="#3ddc84" stroke-width="1.5">
+    <animate attributeName="r" values="4;9" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="32" y="24" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#aab0ba">open to internships · cybersecurity &amp; IT infrastructure</text>
+</svg>

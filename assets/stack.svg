@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 204" width="830" height="204">
+  <title>Technical Stack — Oumnih Abdelkafi</title>
+  <desc>Categorized technical toolkit: Systems, Languages, Security, and Tooling</desc>
+  <!-- Panel base (inset 4px) -->
+  <rect x="4" y="4" width="822" height="196" rx="12" fill="#0b0c0f" stroke="#23262e" stroke-width="1"/>
+  <!-- Row 0: SYSTEMS -->
+  <text x="28" y="46" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#8b909a" letter-spacing="1.5">SYSTEMS</text>
+    <rect x="150" y="28" width="57" height="28" rx="6" fill="#12141a" stroke="#23262e" stroke-width="1"/>
+    <text x="179" y="46" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#e6e8ec" text-anchor="middle">Linux</text>
+    <rect x="215" y="28" width="50" height="28" rx="6" fill="#12141a" stroke="#23262e" stroke-width="1"/>
+    <text x="240" y="46" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#e6e8ec" text-anchor="middle">Bash</text>
+    <rect x="273" y="28" width="70" height="28" rx="6" fill="#12141a" stroke="#23262e" stroke-width="1"/>
+    <text x="308" y="46" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#e6e8ec" text-anchor="middle">systemd</text>
+    <rect x="351" y="28" width="77" height="28" rx="6" fill="#12141a" stroke="#23262e" stroke-width="1"/>
+    <text x="390" y="46" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#e6e8ec" text-anchor="middle">iptables</text>
+    <rect x="436" y="28" width="44" height="28" rx="6" fill="#12141a" stroke="#23262e" stroke-width="1"/>
+    <text x="458" y="46" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#e6e8ec" text-anchor="middle">SSH</text>
+  <!-- Row 1: LANGUAGES -->
+  <text x="28" y="86" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#8b909a" letter-spacing="1.5">LANGUAGES</text>
+    <rect x="150" y="68" width="64" height="28" rx="6" fill="#12141a" stroke="#23262e" stroke-width="1"/>
+    <text x="182" y="86" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#e6e8ec" text-anchor="middle">Python</text>
+    <rect x="222" y="68" width="70" height="28" rx="6" fill="#12141a" stroke="#23262e" stroke-width="1"/>
+    <text x="257" y="86" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#e6e8ec" text-anchor="middle">Node.js</text>
+    <rect x="300" y="68" width="70" height="28" rx="6" fill="#12141a" stroke="#23262e" stroke-width="1"/>
+    <text x="335" y="86" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#e6e8ec" text-anchor="middle">Express</text>
+  <!-- Row 2: SECURITY -->
+  <text x="28" y="126" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#8b909a" letter-spacing="1.5">SECURITY</text>
+    <rect x="150" y="108" width="103" height="28" rx="6" fill="#12141a" stroke="#23262e" stroke-width="1"/>
+    <text x="202" y="126" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#e6e8ec" text-anchor="middle">Log analysis</text>
+    <rect x="261" y="108" width="50" height="28" rx="6" fill="#12141a" stroke="#23262e" stroke-width="1"/>
+    <text x="286" y="126" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#e6e8ec" text-anchor="middle">SIEM</text>
+    <rect x="319" y="108" width="116" height="28" rx="6" fill="#12141a" stroke="#23262e" stroke-width="1"/>
+    <text x="377" y="126" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#e6e8ec" text-anchor="middle">Threat hunting</text>
+    <rect x="443" y="108" width="50" height="28" rx="6" fill="#12141a" stroke="#23262e" stroke-width="1"/>
+    <text x="468" y="126" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#e6e8ec" text-anchor="middle">CTFs</text>
+    <rect x="501" y="108" width="50" height="28" rx="6" fill="#12141a" stroke="#23262e" stroke-width="1"/>
+    <text x="526" y="126" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#e6e8ec" text-anchor="middle">RCON</text>
+  <!-- Row 3: TOOLING -->
+  <text x="28" y="166" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#8b909a" letter-spacing="1.5">TOOLING</text>
+    <rect x="150" y="148" width="44" height="28" rx="6" fill="#12141a" stroke="#23262e" stroke-width="1"/>
+    <text x="172" y="166" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#e6e8ec" text-anchor="middle">Git</text>
+    <rect x="202" y="148" width="64" height="28" rx="6" fill="#12141a" stroke="#23262e" stroke-width="1"/>
+    <text x="234" y="166" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#e6e8ec" text-anchor="middle">GitHub</text>
+    <rect x="274" y="148" width="64" height="28" rx="6" fill="#12141a" stroke="#23262e" stroke-width="1"/>
+    <text x="306" y="166" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#e6e8ec" text-anchor="middle">Docker</text>
+</svg>
