@@ -29,8 +29,8 @@ export const config = {
   SENTINELSOC_STACK: 'Python, SIEM, auth.log, Linux',
   THM_VALUE: 'Top 10%',
   THM_SUBLABEL: 'global ranking',
-  HTB_VALUE: 'Pro Labs',
-  HTB_SUBLABEL: 'active labs & writeups',
+  HTB_VALUE: 'Level 13',
+  HTB_SUBLABEL: 'beginner rank',
   LINKEDIN_URL: 'https://linkedin.com/in/abdelkafi-oumnih-91b37b32b/',
   EMAIL_ADDRESS: 'oumnihabdelkafi0@gmail.com',
 };
